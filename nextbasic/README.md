@@ -11,3 +11,5 @@
     Rotas Dinâmicas:
         - Para criar rotas dinâmicas basta involver a pasta ou nome do arquivo com '[]'
         - com isso se uma rota for por exemplo '/produtos/[id]' e você acessar a url '/produtos/1' o arquivo ira carregar as informações sem problemas.
+
+    Para pegar informações dessas rotas nos usamos a função 'useRouter' do NextJS.

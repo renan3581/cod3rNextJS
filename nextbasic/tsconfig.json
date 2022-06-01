@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/pages/questao.jsx", "src/pages/api/questao/[id].ts", "src/pages/api/form.ts"  ],
   "exclude": [
     "node_modules"
   ]
